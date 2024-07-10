@@ -1,8 +1,16 @@
-# React + Vite
+# Tela de Login em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição do Projeto
+Este projeto é uma tela de login simples em React, que permite o cadastro de usuários e exibe uma lista de usuários cadastrados. O projeto utiliza um arquivo de estilo CSS para estilização dos componentes.
 
-Currently, two official plugins are available:
+## Estrutura do Projeto
+O projeto consiste em um único componente `Home`, que renderiza um formulário de cadastro e uma lista de usuários.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependências
+- React
+
+## Estrutura dos Arquivos
+- `Home.js`: Componente principal que renderiza a tela de cadastro e lista de usuários.
+- `style.css`: Arquivo de estilos para estilização do componente `Home`.
+
+
